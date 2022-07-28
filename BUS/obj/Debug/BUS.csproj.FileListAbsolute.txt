@@ -1,0 +1,11 @@
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\bin\Debug\BUS.dll
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\bin\Debug\BUS.pdb
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\bin\Debug\DAL.dll
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\bin\Debug\DTO_DonHang.dll
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\bin\Debug\DAL.pdb
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\bin\Debug\DTO_DonHang.pdb
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\obj\Debug\BUS.dll
+C:\Users\84826\source\repos\QuanLyDonHang\BUS\obj\Debug\BUS.pdb

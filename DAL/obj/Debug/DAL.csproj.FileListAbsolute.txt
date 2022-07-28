@@ -1,0 +1,6 @@
+C:\Users\84826\source\repos\QuanLyDonHang\DAL\bin\Debug\DAL.dll
+C:\Users\84826\source\repos\QuanLyDonHang\DAL\bin\Debug\DAL.pdb
+C:\Users\84826\source\repos\QuanLyDonHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\84826\source\repos\QuanLyDonHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\84826\source\repos\QuanLyDonHang\DAL\obj\Debug\DAL.dll
+C:\Users\84826\source\repos\QuanLyDonHang\DAL\obj\Debug\DAL.pdb
