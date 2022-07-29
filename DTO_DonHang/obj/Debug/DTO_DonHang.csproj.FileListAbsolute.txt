@@ -4,3 +4,9 @@ C:\Users\84826\source\repos\QuanLyDonHang\DTO_DonHang\obj\Debug\DTO_DonHang.cspr
 C:\Users\84826\source\repos\QuanLyDonHang\DTO_DonHang\obj\Debug\DTO_DonHang.csproj.CoreCompileInputs.cache
 C:\Users\84826\source\repos\QuanLyDonHang\DTO_DonHang\obj\Debug\DTO_DonHang.dll
 C:\Users\84826\source\repos\QuanLyDonHang\DTO_DonHang\obj\Debug\DTO_DonHang.pdb
+C:\Users\84826\source\PhanVinhPhuc_QuanLyDonHang\DTO_DonHang\bin\Debug\DTO_DonHang.dll
+C:\Users\84826\source\PhanVinhPhuc_QuanLyDonHang\DTO_DonHang\bin\Debug\DTO_DonHang.pdb
+C:\Users\84826\source\PhanVinhPhuc_QuanLyDonHang\DTO_DonHang\obj\Debug\DTO_DonHang.csproj.AssemblyReference.cache
+C:\Users\84826\source\PhanVinhPhuc_QuanLyDonHang\DTO_DonHang\obj\Debug\DTO_DonHang.csproj.CoreCompileInputs.cache
+C:\Users\84826\source\PhanVinhPhuc_QuanLyDonHang\DTO_DonHang\obj\Debug\DTO_DonHang.dll
+C:\Users\84826\source\PhanVinhPhuc_QuanLyDonHang\DTO_DonHang\obj\Debug\DTO_DonHang.pdb

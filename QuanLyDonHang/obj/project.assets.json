@@ -507,11 +507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\QuanLyDonHang\\GUI.csproj",
+      "projectUniqueName": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\QuanLyDonHang\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\QuanLyDonHang\\GUI.csproj",
+      "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\QuanLyDonHang\\GUI.csproj",
       "packagesPath": "C:\\Users\\84826\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\QuanLyDonHang\\obj\\",
+      "outputPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\QuanLyDonHang\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\84826\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -528,11 +528,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\BUS\\BUS.csproj": {
-              "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\BUS\\BUS.csproj"
+            "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\BUS\\BUS.csproj": {
+              "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\BUS\\BUS.csproj"
             },
-            "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj": {
-              "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj"
+            "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj": {
+              "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj"
             }
           }
         }

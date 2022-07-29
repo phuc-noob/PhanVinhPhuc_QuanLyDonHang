@@ -76,7 +76,9 @@
             this.dgv_don_hang.RowTemplate.Height = 29;
             this.dgv_don_hang.Size = new System.Drawing.Size(1052, 256);
             this.dgv_don_hang.TabIndex = 0;
+            this.dgv_don_hang.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgv_don_hang_CellClick);
             this.dgv_don_hang.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            this.dgv_don_hang.Click += new System.EventHandler(this.dgv_don_hang_Click);
             // 
             // label1
             // 
@@ -86,6 +88,7 @@
             this.label1.Size = new System.Drawing.Size(473, 65);
             this.label1.TabIndex = 1;
             this.label1.Text = "QUẢN LÝ ĐƠN HÀNG";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // groupBox2
             // 
@@ -127,15 +130,15 @@
             // 
             // tb_delete_id
             // 
-            this.tb_delete_id.Location = new System.Drawing.Point(796, 174);
+            this.tb_delete_id.Location = new System.Drawing.Point(773, 168);
             this.tb_delete_id.Name = "tb_delete_id";
-            this.tb_delete_id.Size = new System.Drawing.Size(77, 27);
+            this.tb_delete_id.Size = new System.Drawing.Size(100, 27);
             this.tb_delete_id.TabIndex = 17;
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(575, 177);
+            this.label9.Location = new System.Drawing.Point(575, 168);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(192, 20);
             this.label9.TabIndex = 16;

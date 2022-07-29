@@ -1,22 +1,22 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\QuanLyDonHang\\GUI.csproj": {}
+    "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\QuanLyDonHang\\GUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\BUS\\BUS.csproj": {
+    "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\BUS\\BUS.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\BUS\\BUS.csproj",
+        "projectUniqueName": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\BUS\\BUS.csproj",
         "projectName": "BUS",
-        "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\BUS\\BUS.csproj",
+        "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\BUS\\BUS.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {
-              "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DAL\\DAL.csproj"
+              "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj": {
-                "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj"
+              "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj": {
+                "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj"
               }
             }
           }
@@ -26,11 +26,11 @@
         "net472": {}
       }
     },
-    "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DAL\\DAL.csproj": {
+    "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DAL\\DAL.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DAL\\DAL.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -41,11 +41,11 @@
         "net472": {}
       }
     },
-    "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj": {
+    "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj",
+        "projectUniqueName": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj",
         "projectName": "DTO_DonHang",
-        "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj",
+        "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -56,14 +56,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\QuanLyDonHang\\GUI.csproj": {
+    "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\QuanLyDonHang\\GUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\QuanLyDonHang\\GUI.csproj",
+        "projectUniqueName": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\QuanLyDonHang\\GUI.csproj",
         "projectName": "GUI",
-        "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\QuanLyDonHang\\GUI.csproj",
+        "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\QuanLyDonHang\\GUI.csproj",
         "packagesPath": "C:\\Users\\84826\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\QuanLyDonHang\\obj\\",
+        "outputPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\QuanLyDonHang\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\84826\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -80,11 +80,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\BUS\\BUS.csproj": {
-                "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\BUS\\BUS.csproj"
+              "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\BUS\\BUS.csproj": {
+                "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\BUS\\BUS.csproj"
               },
-              "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj": {
-                "projectPath": "C:\\Users\\84826\\source\\repos\\QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj"
+              "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj": {
+                "projectPath": "C:\\Users\\84826\\source\\PhanVinhPhuc_QuanLyDonHang\\DTO_DonHang\\DTO_DonHang.csproj"
               }
             }
           }
