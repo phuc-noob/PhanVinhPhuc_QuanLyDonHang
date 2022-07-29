@@ -35,7 +35,7 @@ namespace QuanLyDonHang
             
             dgv_don_hang.DataSource = B_DonHang.GetAllDonHang();
 
-            int rowindex = 1;
+            int rowindex = 0;
             idDonhang = dgv_don_hang.Rows[rowindex].Cells[0].Value.ToString();
             tenNguoiGui = dgv_don_hang.Rows[rowindex].Cells[1].Value.ToString();
             dc_gui = dgv_don_hang.Rows[rowindex].Cells[2].Value.ToString();
@@ -154,15 +154,22 @@ namespace QuanLyDonHang
 
         private void dgv_don_hang_CellClick(object sender, DataGridViewCellEventArgs e)
         {
-            int rowindex = dgv_don_hang.CurrentCell.RowIndex;
-            idDonhang = dgv_don_hang.Rows[rowindex].Cells[0].Value.ToString();
-            tenNguoiGui = dgv_don_hang.Rows[rowindex].Cells[1].Value.ToString();
-            dc_gui = dgv_don_hang.Rows[rowindex].Cells[2].Value.ToString();
-            dc_nhan = dgv_don_hang.Rows[rowindex].Cells[3].Value.ToString();
-            trongLuong =float.Parse( dgv_don_hang.Rows[rowindex].Cells[4].Value.ToString());
-            chieuDai = int.Parse(dgv_don_hang.Rows[rowindex].Cells[5].Value.ToString());
-            chieuRong = int.Parse(dgv_don_hang.Rows[rowindex].Cells[6].Value.ToString());
-            chieuCao = int.Parse(dgv_don_hang.Rows[rowindex].Cells[7].Value.ToString());
+            try
+            {
+                int rowindex = dgv_don_hang.CurrentCell.RowIndex;
+                idDonhang = dgv_don_hang.Rows[rowindex].Cells[0].Value.ToString();
+                tenNguoiGui = dgv_don_hang.Rows[rowindex].Cells[1].Value.ToString();
+                dc_gui = dgv_don_hang.Rows[rowindex].Cells[2].Value.ToString();
+                dc_nhan = dgv_don_hang.Rows[rowindex].Cells[3].Value.ToString();
+                trongLuong = float.Parse(dgv_don_hang.Rows[rowindex].Cells[4].Value.ToString());
+                chieuDai = int.Parse(dgv_don_hang.Rows[rowindex].Cells[5].Value.ToString());
+                chieuRong = int.Parse(dgv_don_hang.Rows[rowindex].Cells[6].Value.ToString());
+                chieuCao = int.Parse(dgv_don_hang.Rows[rowindex].Cells[7].Value.ToString());
+            }catch(Exception ex)
+            {
+                
+            }
+            
 
             tb_delete_id.Text = idDonhang;
             tb_tenNguoiGui.Text = tenNguoiGui;
